@@ -2,16 +2,19 @@
 ===
 
 ## Table of Contents
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+1. [Team](#Team)
+2. [Overview](#Overview)
+3. [Product Spec](#Product-Spec)
+4. [Wireframes](#Wireframes)
+5. [Schema](#Schema)
 
 ## Team
 Dev Popat: popatd@uci.edu
 - Worked on code, and sketches
+
 Malhar Mane: mmane@uci.edu
 - Worked on code and sketches
+
 Andres Diaz: adiaz18011@gmail.com
 - Worked on code, sketches, and READ.ME
 
