@@ -92,11 +92,11 @@ User
 <img src="Fresh_Hub_User.PNG" width=400>
 
 ### Networking
-- Network Request
- - Inventory
+Network Request
+ - Inventory(Read/Get): Show all available items to user
 <img src="Code.PNG" width=400>
 
-- Parse
- - Login
+Parse
+ - Login(Read/Get): Get the users username and password
 <img src="Code_Parse.PNG" width=400>
 
