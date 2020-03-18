@@ -9,8 +9,11 @@
 
 ## Team
 Dev Popat: popatd@uci.edu
+- Worked on code, and sketches
 Malhar Mane: mmane@uci.edu
+- Worked on code and sketches
 Andres Diaz: adiaz18011@gmail.com
+- Worked on code, sketches, and READ.ME
 
 ## Overview
 ### Description
