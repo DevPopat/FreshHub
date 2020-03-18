@@ -92,6 +92,11 @@ User
 <img src="Fresh_Hub_User.PNG" width=400>
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+- Network Request
+ - Inventory
+<img src="Code.PNG" width=400>
+
+- Parse
+ - Login
+<img src="Code_Parse.PNG" width=400>
 
