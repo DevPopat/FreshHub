@@ -41,7 +41,7 @@ FRESH Basic Needs Hub at UCI is an effort to offer food, toiletries, and off-cam
 ### 2. Screen Archetypes
 
 - Login
- - The user logs in or registers with an email address in order to gain access to view what is available
+  - The user logs in or registers with an email address in order to gain access to view what is available
 - Button Screen
   - Three buttons are displayed for the available items: inventory, contact us, and user profile. Then each button will take the user to a separate screen
 - Inventory Screen
@@ -65,10 +65,10 @@ FRESH Basic Needs Hub at UCI is an effort to offer food, toiletries, and off-cam
 
 
 **Flow Navigation** (Screen to Screen)
-Login  => After user logs in they are taken to the button page
-Inventory => Taken to a recycler view where available items were displayed
-Contact Us => Text view that shows contact information and open hours
-User Profile => Image and text view that shows the users information
+- Login  => After user logs in they are taken to the button page
+- Inventory => Taken to a recycler view where available items were displayed
+- Contact Us => Text view that shows contact information and open hours
+- User Profile => Image and text view that shows the users information
 
 ## Wireframes
 <img src="Wireframe.jpg" width=600>
