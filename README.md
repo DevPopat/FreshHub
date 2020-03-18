@@ -74,7 +74,10 @@ FRESH Basic Needs Hub at UCI is an effort to offer food, toiletries, and off-cam
 <img src="Wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="login.PNG" width=400> <img src="button_pg.PNG" width=400>
+<img src="inventory.PNG" width=400> <img src="profile.PNG" width=400>
 <img src="button_pg.PNG" width=400>
+
 ### [BONUS] Interactive Prototype
 
 ## Schema 
