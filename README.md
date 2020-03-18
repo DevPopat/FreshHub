@@ -27,41 +27,41 @@ FRESH Basic Needs Hub at UCI is an effort to offer food, toiletries, and off-cam
 ## Product Spec
 ### 1. User Stories (Required and Optional)
 
-User must be able to create and log into an account
-Display the different products available
-Display user information
-Display contact information
+- User must be able to create and log into an account
+- Display the different products available
+- Display user information
+- Display contact information
 
 
 **Optional Nice-to-have Stories**
 
-Have the products sectioned off into categories
-Have a shopping cart where the user can add the products they’re planning to buy
+- Have the products sectioned off into categories
+- Have a shopping cart where the user can add the products they’re planning to buy
 
 ### 2. Screen Archetypes
 
-Login
-The user logs in or registers with an email address in order to gain access to view what is available
-Button Screen
-Three buttons are displayed for the available items: inventory, contact us, and user profile. Then each button will take the user to a separate screen
-Inventory Screen
-This will be a recycler view that shows all the available items 
-Contact Us screen 
-All the contact information will be displayed along with open hours
-User Profile Screen
-The users information will be displayed here
+- Login
+ - The user logs in or registers with an email address in order to gain access to view what is available
+- Button Screen
+  - Three buttons are displayed for the available items: inventory, contact us, and user profile. Then each button will take the user to a separate screen
+- Inventory Screen
+  - This will be a recycler view that shows all the available items 
+- Contact Us screen 
+  - All the contact information will be displayed along with open hours
+- User Profile Screen
+  - The users information will be displayed here
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-Log in
-Contact Us
-User Information
+- Log in
+- Contact Us
+- User Information
 
 **Optional**
-Shopping cart
-Categories
+- Shopping cart
+- Categories
 
 
 **Flow Navigation** (Screen to Screen)
