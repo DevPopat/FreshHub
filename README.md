@@ -84,9 +84,11 @@ FRESH Basic Needs Hub at UCI is an effort to offer food, toiletries, and off-cam
 ## Schema 
 ### Models
 Food_Item
-<img src="Fresh_Hub_Food.PNG" width=400>
+
+<img src="Fresh_hub_Food.PNG" width=400>
 
 User
+
 <img src="Fresh_Hub_User.PNG" width=400>
 
 ### Networking
